@@ -49,7 +49,16 @@ const OtterGame = () => {
     "The ocean covers 71% of Earth's surface and contains 97% of Earth's water!",
     "More than 80% of the ocean has never been mapped or explored!",
     "Otters are a keystone species - they help maintain healthy kelp forests!",
-    "Sea otters can live their entire lives without leaving the water!"
+    "Sea otters can live their entire lives without leaving the water!",
+    "14 billion pound of garbage are dumped into the ocean every year, and that number will only increase if nothing is done.",
+    "100,000 animals die every year from entangalment in trash.",
+    "by 2050, the ocean will have more trash than fish by weight.",
+    "the great garbage patch is twice the size of texas as of now.",
+    "About 10% of Americas beaches fail to meet the federal benchmark for what constitutes safe swimming water.",
+    "The Mississippi River carries an estimated 1.5 million metric tons of nitrogen pollution into the Gulf of Mexico each year.",
+    "Over 5.25 Trillion Pieces of Plastic Trash Are in Our Oceans.",
+    "Over 1 million seabirds and 100,000 sea mammals are killed by pollution every year.",
+    "Approximately 40% of the lakes in America are too polluted for fishing, aquatic life, or swimming."
   ];
 
   // Load images from public folder on mount
